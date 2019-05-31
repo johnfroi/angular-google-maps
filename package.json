@@ -1,11 +1,11 @@
 {
-  "name": "@agm/_dev",
+  "name": "@agm/flatx-cloned",
   "private": false,
   "version": "1.0.0-flatx-angular-8",
   "description": "Angular components for Google Maps",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SebastianM/angular-google-maps.git"
+    "url": "https://github.com/johnfroi/angular-google-maps.git"
   },
   "keywords": [
     "angular",
