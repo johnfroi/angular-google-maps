@@ -1,7 +1,7 @@
 {
   "name": "@agm/flatx-cloned",
   "private": false,
-  "version": "1.0.0-flatx-angular-8",
+  "version": "1.0.0",
   "description": "Angular components for Google Maps",
   "repository": {
     "type": "git",
